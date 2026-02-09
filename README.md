@@ -1,5 +1,5 @@
-/*****************************************************************************************
- * Project Title : Meal Card Usage Tracker System
+
+ # Project Title : Meal Card Usage Tracker System
  *
  * Description   :
  * This project is a console-based Meal Card Usage Tracker System developed in C++.
@@ -40,4 +40,3 @@
  * modular programming, input validation, and real-time logic.
  *
  * Date : 2026
- *****************************************************************************************/
