@@ -159,8 +159,6 @@ int search(vector<Student> &stDb);
 int search(vector<Student> &stDb, string mealNo);
 void selectedSt(vector<Student> &stDb);
 void selectedSt(vector<Student> &stDb, int i);
-
-void setAction(int option, vector<Student> &stDb);
 char sexValidator();
 void sortByName(vector<Student> &stDb);
 
